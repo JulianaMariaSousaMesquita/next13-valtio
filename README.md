@@ -10,7 +10,7 @@ Instruções de Uso:
 Clone este repositório em sua máquina local.
 Instale as dependências com o comando pnpm install.
 Inicie o servidor de desenvolvimento com pnpm dev.
-Acesse http://localhost:3000/valtio em seu navegador para ver a demonstração do Valtio em ação.
+Acesse http://localhost:3000/ValtioTest em seu navegador para ver a demonstração do Valtio em ação.
 Este repositório serve como um ponto de partida para explorar o Valtio em um ambiente Next.js 13, usando o pnpm como gerenciador de pacotes. Sinta-se à vontade para usá-lo como base para seus próprios projetos ou experimentos relacionados ao Valtio e ao Next.js, mantendo o uso do pnpm para instalação de pacotes.
 
 ## Passo 1: Criar um Novo Repositório no GitHub
